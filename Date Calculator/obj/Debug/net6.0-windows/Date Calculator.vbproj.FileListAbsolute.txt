@@ -1,0 +1,17 @@
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\bin\Debug\net6.0-windows\Date Calculator.exe
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\bin\Debug\net6.0-windows\Date Calculator.deps.json
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\bin\Debug\net6.0-windows\Date Calculator.runtimeconfig.json
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\bin\Debug\net6.0-windows\Date Calculator.dll
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\bin\Debug\net6.0-windows\Date Calculator.pdb
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.vbproj.AssemblyReference.cache
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.vbproj.GenerateResource.cache
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.AssemblyInfoInputs.cache
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.AssemblyInfo.vb
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.dll
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\refint\Date Calculator.dll
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.pdb
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date Calculator.genruntimeconfig.cache
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\ref\Date Calculator.dll
+C:\Users\willc\source\repos\Date Calculator\Date Calculator\obj\Debug\net6.0-windows\Date_Calculator.DateCalculator.resources
